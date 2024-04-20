@@ -29,7 +29,7 @@ OPEN_WEATHER_TOKEN = ""
 
 # Use cityname, country code where countrycode is ISO3166 format.
 # E.g. "New York, US" or "London, GB"
-LOCATION = "Manhattan, US"
+LOCATION = "Austin, US"
 DATA_SOURCE_URL = "http://api.openweathermap.org/data/2.5/weather"
 
 if len(OPEN_WEATHER_TOKEN) == 0:
